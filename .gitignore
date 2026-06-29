@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production build directories
+client/dist/
+
+# Environment files
+.env
+server/.env
+client/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDEs and Editors
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
